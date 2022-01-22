@@ -1,10 +1,7 @@
 <div align="center">
 
 # Incrie Technologies - `DataStorage`
-
-<br>
-
-**!! this is a temporary solution. !!**
+## **!! this is a temporary solution. !!**
 
 </div>
 
