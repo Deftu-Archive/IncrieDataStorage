@@ -1,0 +1,17 @@
+[
+    {
+        "name": "", // Required.
+        "description": "", // Required.
+        "url": "", // Optional - defaults to null.
+        "documentation": "", // Optional - defaults to null.
+        "wiki": "", // Optional - defaults to null.
+        "downloadable": true, // Optional - defaults to false.
+        "downloads": [ // Optional - defaults to empty.
+            {
+                "url": "https://data.incrie.xyz/products/incriemc/downloads/v1/launchwrappers/IncrieLaunchwrapper.jar", // Required.
+                "last_updated": "", // Optional - defaults to null. (in ISO-8601 format.)
+                "version": "1.0.0-alpha" // Optional - defaults to null.
+            }
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "name": "IncrieMC",
+        "description": "Complex API built for Minecraft modding.",
+        "downloadable": true,
+        "downloads": [
+            {
+                "url": "https://data.incrie.xyz/products/incriemc/downloads/v1/launchwrappers/IncrieLaunchwrapper.jar",
+                "last_updated": "2022-01-24T97:23:51.713725Z"
+            }
+        ]
+    }
+]
